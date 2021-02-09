@@ -14,7 +14,7 @@ title: Michael Wells Resume
 ### Tilig Password Manager - Full-Stack Software Engineer
 ###### March 2020 - January 2021
 - Promoted to a full-time Software Engineer role after initially being hired on for part-time contract work
-- Converted backend Node.JS based API to Ruby on Rails to better enable security features and promote quick development of features to product.
+- Converted backend Node.JS based API to Ruby on Rails to better enable security features and promote quick development of features to the product.
 - Successfully set up and maintained metrics and logging for the web application and cloud-based infrastructure utilizing Prometheus, Grafana, Fluentd, InfluxDB, and Elastic(Elk Stack) which allowed for better security monitoring, alerts for errors or downtime, and resource usage in AWS. 
 - Built a custom Gitlab CI/CD runner to allow a monorepo to be separated into separate services with individual pipelines that build, test, perform security scans, and deploy to AWS via EKS. Build times for the backend API were improved by up to 90% and configuration became more accessible to other developers from implementing infrastructure as code.
 
